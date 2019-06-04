@@ -1,0 +1,10 @@
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/bin/Debug/netcoreapp2.0/Basic_13_C#.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/bin/Debug/netcoreapp2.0/Basic_13_C#.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/bin/Debug/netcoreapp2.0/Basic_13_C#.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/bin/Debug/netcoreapp2.0/Basic_13_C#.dll
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/bin/Debug/netcoreapp2.0/Basic_13_C#.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/obj/Debug/netcoreapp2.0/Basic_13_C#.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/obj/Debug/netcoreapp2.0/Basic_13_C#.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/obj/Debug/netcoreapp2.0/Basic_13_C#.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/obj/Debug/netcoreapp2.0/Basic_13_C#.dll
+/Users/eugenebenitez/Desktop/C_Sharp/Basic_13_C#/obj/Debug/netcoreapp2.0/Basic_13_C#.pdb
